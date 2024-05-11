@@ -36,10 +36,12 @@ header {
   position: absolute;
   width: 200px;
   height: 200px;
-  top: 20px;
-  left: 5px;
+  top: 80px;
+  left: 200px;
   font-size: 50px;
-  color: black;
+  color: rgb(185, 169, 169); 
+  
+  
 
 
 }
@@ -62,11 +64,7 @@ h1 {
   text-align: center;
 }
 
-#parrafo1 {
-  width: 550px;
-  margin-left: 30%;
-  text-align: justify;
-}
+
 
 #bicit {
 
